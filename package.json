@@ -1,5 +1,5 @@
 {
-  "name": "delphi",
+  "name": "org.yumashish.delphi",
   "version": "1.0.0",
   "description": "Simple library to compile metrics",
   "main": "delphi.js",
