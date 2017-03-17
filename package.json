@@ -1,0 +1,22 @@
+{
+  "name": "delphi",
+  "version": "1.0.0",
+  "description": "Simple library to compile metrics",
+  "main": "delphi.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "metric",
+    "delphi"
+  ],
+  "author": "Yumashish Subba",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.1.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.0.0"
+  }
+}
